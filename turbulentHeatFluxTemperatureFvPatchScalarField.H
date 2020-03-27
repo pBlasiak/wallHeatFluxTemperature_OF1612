@@ -87,7 +87,7 @@ public:
 
 private:
 
-    // Private data
+    // private data
 
         //- Heat source type names
         static const NamedEnum<heatSourceType, 2> heatSourceTypeNames_;
